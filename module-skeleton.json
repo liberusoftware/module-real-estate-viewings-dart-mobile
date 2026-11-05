@@ -1,0 +1,15 @@
+{
+  "repository": "module-real-estate-viewings-dart-mobile",
+  "capabilityKey": "liberusoftware/real-estate-viewings",
+  "presentation": "dart-mobile",
+  "package": "module_real_estate_viewings_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/real-estate/nextjs/viewings.md",
+  "presentationPlan": "projects/real-estate/features/viewings.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "real-estate"
+  ]
+}
